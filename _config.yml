@@ -6,9 +6,13 @@ color:
   saturation: 0.5481556300073862
   rhythmicContrast: 0.17175532737746835
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: HD5280
+author:
+  name: Cliff Workman
+  email: cliffworkman@gmail.com
+  url: ''
