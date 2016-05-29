@@ -1,0 +1,14 @@
+layout_spectrum: 0.24190877890214324
+typography_spectrum: 0.639568671118468
+color:
+  brandStrength: 0.27718191663734615
+  lightness: 0.6574936301913112
+  saturation: 0.5481556300073862
+  rhythmicContrast: 0.17175532737746835
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: HD5280
